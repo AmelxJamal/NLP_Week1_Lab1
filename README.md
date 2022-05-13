@@ -1,6 +1,12 @@
-# NLP Week1 Lab1
+# NLP Week1 Labs
 
-Implement text classification using two methods:
+## Lab1
 
 * Naive Bayes
 * Logistic Regression
+
+## Lab2 : Introduction to wordvectors 
+
+* Word similarities 
+* Association_strength between word sets
+* Word Translation (English--French)
