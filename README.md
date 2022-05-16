@@ -10,3 +10,5 @@
 * Word similarities 
 * Association_strength between word sets
 * Word Translation (English--French)
+
+## Lab3 : n-gram models
