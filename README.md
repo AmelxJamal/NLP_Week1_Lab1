@@ -13,5 +13,5 @@
 
 ## Lab3 : n-gram models
 * Build an n-gram model
-* Calcualte perplexity 
+* Calculate perplexity 
 * Generate a word sequence
