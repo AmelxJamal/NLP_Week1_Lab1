@@ -12,3 +12,6 @@
 * Word Translation (English--French)
 
 ## Lab3 : n-gram models
+* Build an n-gram model
+* Calcualte perplexity 
+* Generate a word sequence
